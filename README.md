@@ -1,3 +1,5 @@
+We are actively developing iotex-explorer in the [V1.0 branch](https://github.com/iotexproject/iotex-explorer/tree/v1.0).
+
 [![CircleCI](https://circleci.com/gh/iotexproject/iotex-explorer.svg?style=svg)](https://circleci.com/gh/iotexproject/iotex-explorer)
 
 # iotex-explorer
